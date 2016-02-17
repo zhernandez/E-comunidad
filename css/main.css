@@ -86,4 +86,23 @@ header{
 	height: auto;
 	border-radius: 100%;
 	margin-left: 150px;
+	margin-bottom: 20px;
+}
+.iconos{
+	margin-top: 30px;
+	margin-left: 180px;
+	margin-bottom: 50px;
+}
+.mini{
+	width:25px;
+	height: auto;
+}
+.bloque{
+	background: url(../img/fondo2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width:100%;
+    height:500px;
+
 }
